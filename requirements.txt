@@ -1,0 +1,6 @@
+ultralytics>=8.1        # YOLOv8 (installs PyTorch CPU)
+mediapipe>=0.10.14      # hand landmarks
+opencv-python>=4.8      # webcam + image processing
+pygame-ce>=2.5             # game window
+numpy
+pytest                  # optional, for the unit tests
